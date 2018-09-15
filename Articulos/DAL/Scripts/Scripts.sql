@@ -1,0 +1,2 @@
+create database ArticulosDB
+go
